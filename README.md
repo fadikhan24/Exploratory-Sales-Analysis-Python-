@@ -1,6 +1,7 @@
 # Exploratory-Sales-Analysis-Python-
 Conducted comprehensive exploratory data analysis on e-commerce data to understand purchasing patterns and customer preferences
 
+* Tool Used: Python Jupyter
 * Data was taken from Github
 * Utilized Pandas for data manipulation and preprocessing, Seaborn for statistical data visualization, Matplotlib for creating customized plots and charts, and NumPy for numerical computations
 * Analyzed key metrics such as sales trends, customer demographics, product preferences, and seasonal variations in purchasing behavior
